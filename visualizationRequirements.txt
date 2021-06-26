@@ -1,0 +1,19 @@
+Column 1: Hole Depth (ft)
+Column 2: Gamma Ray
+	- Green
+	- (Fill as possible)
+Column 3: Bulk density and porosity
+	- Red/Blue
+Column 4: Hydrostatic pressure/Confined pressure
+	- Blue/Yellow
+Column 5: MSE/UCS/CCS
+	- Blue/Red/Yellow
+Column 6: Young Mod
+	- Blue
+Column 7: Compressional Wave/Shear wave
+	- Blue/Red
+Column 8: Permeability
+	- Blue
+
+Other requirements:
+	- Depth increment of 50
