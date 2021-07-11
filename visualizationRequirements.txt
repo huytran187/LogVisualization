@@ -17,3 +17,5 @@ Column 8: Permeability
 
 Other requirements:
 	- Depth increment of 50
+
+Convert to pdf after done
